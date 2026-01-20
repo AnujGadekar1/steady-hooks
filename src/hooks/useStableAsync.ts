@@ -1,3 +1,4 @@
+// src/hooks/useStableAsync.ts
 import { useCallback, useEffect, useRef, useState } from "react";
 
 type AsyncFn<TArgs extends any[], TResult> = (...args: TArgs) => Promise<TResult>;
