@@ -1,3 +1,5 @@
+// src/hooks/useOnceEffect.ts
+
 import { EffectCallback, useEffect, useRef } from "react";
 
 export function useOnceEffect(effect: EffectCallback) {
