@@ -1,3 +1,4 @@
+// src/hooks/useLatestRef.ts
 import { useEffect, useRef } from "react";
 
 export function useLatestRef<T>(value: T) {
