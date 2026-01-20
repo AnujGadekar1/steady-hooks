@@ -1,4 +1,4 @@
-// Path: src/hooks/useDebouncedValue.ts
+// src/hooks/useDebouncedValue.ts
 import { useEffect, useState } from "react";
 
 export function useDebouncedValue<T>(value: T, delay: number): T {
