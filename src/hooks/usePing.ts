@@ -1,3 +1,4 @@
+// src/hooks/usePing.ts
 import { useEffect, useState } from "react";
 
 interface PingResult {
