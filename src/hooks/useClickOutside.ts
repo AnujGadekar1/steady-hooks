@@ -1,3 +1,4 @@
+// src/hooks/useClickOutside.ts
 import { RefObject, useEffect } from "react";
 
 export function useClickOutside<T extends HTMLElement>(
