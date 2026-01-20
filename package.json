@@ -1,6 +1,6 @@
 {
   "name": "steady-hooks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stable, predictable React hooks for async, state, and browser behavior",
   "keywords": [
     "react",
