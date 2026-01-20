@@ -1,3 +1,4 @@
+// src/hooks/useMounted.ts
 import { useCallback, useEffect, useRef } from "react";
 
 export function useMounted() {
